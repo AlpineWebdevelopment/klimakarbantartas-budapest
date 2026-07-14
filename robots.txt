@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://klimakarbantartas-budapest.vercel.app/sitemap.xml
